@@ -2,4 +2,4 @@ hi it's for the remote repo
 
 now adding something new
 changes from the GitHub online
-now doing second change from online reo=po
+now doing a second change from the online repo
