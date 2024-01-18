@@ -1,4 +1,5 @@
-hi its for the remote repo
+hi it's for the remote repo
 
 now adding something new
-changes form the github online
+changes from the GitHub online
+now doing second change from online reo=po
